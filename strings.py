@@ -34,7 +34,11 @@
 #name=input("USERNAME?")
 #print("Hello" + " " + name.upper())
 
-name="x1234edwin5776"
-print(name[5:10])
-email="bob123@gmail.com"
-print(email)
+#name="x1234edwin5776"
+#print(name[5:10])
+#email="bob123@gmail.com"
+#print(email)
+
+email1="hassanabdiwilly@gmail.com"
+email2="hassanabdiwilly@yahoo.com"
+email3="hassanabdiwilly@icloud.com"
